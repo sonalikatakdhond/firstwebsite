@@ -1,0 +1,95 @@
+body{
+  background-color:  pink;
+  background-size: 30% auto;
+  width: 100%;
+}
+
+.column1{
+  /*background-image: url("img/red2.jpg");*/
+  background-color: #ffffff;
+  height: 300px;
+  font-family: Arial;
+
+  }
+
+.column2{
+  height: 325px;
+}
+
+#footer {
+  background-color: #ffffff;
+  margin-top: 5px;
+  padding: 3px 0 3px 0;
+  text-align: center;
+  }
+
+#feature {
+  margin-top: 4px;
+  margin-bottom:  0;
+  /*background-image: url("img/stars.jpg");*/
+  height: 400px;
+}
+
+.imgwb{
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+  }
+
+#head1{
+  text-align: left;
+  font-family: lucida calligraphy;
+  margin-top: 0;
+}
+
+  #head2{
+    text-align: center ;
+    }
+
+.img1{
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
+.img2{
+  height: 20%;
+  width: 20%;
+}
+
+.l1,.l2,.l3{
+  align-items: center;
+  display: inline;
+  padding: 10px;
+}
+
+#nav{
+  background-color: #ffffff;
+  margin-top: 5px;
+  padding: 10px 0 5px 0;
+  }
+
+  .nav1{
+  text-align:center;
+  }
+
+.webdev{
+  border-radius: 50%;
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+
+}
+
+/*
+/*
+
+<!<img src="img/boydevp123.jpg" alt="" height="500px" width="700px"/>>
+<h1 id="head2" class="h22"> AN ENGINEER!</h1>
+#heading1{  color: red;}*/
